@@ -1,45 +1,43 @@
-# 👋 Olá, sou Cesaltino Lopes!
+# 👋 Olá, sou o Cesaltino Lopes!
 
-🎓 Atualmente a frequentar o curso de **Informática e Multimédia** no IPCB (Instituto Politécnico de Castelo Branco), onde exploro várias áreas entusiasmantes da tecnologia.
-
----
-
-## 🧠 Competências em Desenvolvimento
-
-- 💻 **Linguagens de Programação:** Java, Python, C++, JavaScript, PHP
-- 📱 **Desenvolvimento Mobile:** Flutter com Dart, focado em apps Android multiplataforma
-- 🌐 **Desenvolvimento Web:** PHP, HTML/CSS, JavaScript e JSP
-- 🎨 **Computação Gráfica:** OpenGL e FreeGLUT (aplicações gráficas 2D e 3D)
-- 🧩 **Low-code:** Experiência introdutória com OutSystems
-- 🗃️ **Bancos de Dados:** MySQL, MongoDB, PL/SQL
+🎓 Estou atualmente a frequentar o curso de **Informática e Multimédia** no IPCB (Instituto Politécnico de Castelo Branco), onde exploro com entusiasmo várias áreas da tecnologia.
 
 ---
 
-## 🚀 Em evolução constante
+## 🧠 As minhas competências
 
-Fora do contexto académico, estou sempre a procurar aplicar os meus conhecimentos em **projetos práticos, colaborativos e com impacto real**. Adoro transformar ideias em produtos e aprender novas tecnologias.
+- 💻 **Linguagens de Programação:** Java, Python, C++, JavaScript e PHP  
+- 📱 **Desenvolvimento Mobile:** Utilizo Flutter com Dart para criar aplicações Android multiplataforma  
+- 🌐 **Desenvolvimento Web:** Trabalho com PHP, HTML/CSS, JavaScript e JSP  
+- 🎨 **Computação Gráfica:** Aprofundo-me em OpenGL e FreeGLUT para aplicações 2D e 3D  
+- 🧩 **Low-code:** Tenho experiência introdutória com OutSystems  
+- 🗃️ **Bases de Dados:** Trabalho com MySQL, MongoDB e PL/SQL
 
 ---
 
-## 📂 Projetos em destaque
+## 🚀 Em constante evolução
+
+Fora do ambiente académico, procuro aplicar os meus conhecimentos em **projetos práticos e colaborativos**. Gosto de transformar ideias em aplicações reais e continuo sempre motivado a aprender novas tecnologias.
+
+---
+
+## 📂 Projetos que destaco
 
 ### 📲 [FlutterAndroidAppDev](https://github.com/CLopes86/FlutterAndroidAppDev)  
-App mobile Flutter com foco em desenvolvimento Android moderno (em atualização).
+Aplicação móvel desenvolvida com Flutter, com foco em práticas modernas de desenvolvimento Android. *(em atualização)*
 
 ### 🌐 [GestaoCursosWeb](https://github.com/CLopes86/GestaoCursosWeb)  
-Plataforma web para gestão de cursos — front-end em PHP e back-end com MySQL.
+Plataforma web de gestão de cursos, com back-end em PHP e base de dados MySQL.
 
-(mais projetos em breve...)
+_(Mais projetos serão adicionados em breve!)_
 
 ---
 
 ## 🤝 Vamos colaborar?
 
-Se tiveres uma ideia interessante, projeto em mente ou oportunidade profissional, **estou aberto a colaborações** e oportunidades de estágio/trabalho!
+Se tens uma ideia, projeto ou oportunidade interessante, estou totalmente disponível para colaborar ou integrar uma equipa de trabalho!
 
-📫 **Contato:**  
+📫 **Contactos:**  
 - GitHub: [CLopes86](https://github.com/CLopes86)  
-- LinkedIn: https://www.linkedin.com/in/cesaltino-lopes-55274b176/
+- LinkedIn: [linkedin.com/in/cesaltino-lopes-55274b176](https://www.linkedin.com/in/cesaltino-lopes-55274b176/)  
 - Email: c.lopes46cv@gmail.com
-
----
