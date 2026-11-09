@@ -2,7 +2,7 @@
 
 # 👋 Olá, sou o Cesaltino Lopes!
 
-### 📱 Flutter Developer Junior | Java Developer | IPCB — Castelo Branco, Portugal
+### ☕ Java Developer Junior | 📱 Flutter | Universidade Politécnica de Castelo Branco — Portugal
 
 </div>
 
@@ -10,9 +10,11 @@
 
 ## 🧑‍💻 Sobre Mim
 
-🎓 Estudante de **Informática e Multimédia** no IPCB (Instituto Politécnico de Castelo Branco), a terminar o curso.
+🎓 Estudante de **Informática e Multimédia** na Universidade Politécnica de Castelo Branco (antigo IPCB), com conclusão prevista em 2027.
 
-📱 **Foco principal:** Desenvolvimento mobile com Flutter e desenvolvimento backend com Java.
+☕ **Foco atual:** backend com **Java e Spring Boot**, a construir projetos e a preparar-me para a minha primeira oportunidade como Java Developer Junior.
+
+📱 Também desenvolvo apps mobile com **Flutter** e **Firebase**.
 
 🏗️ Apaixonado por boas práticas — **Clean Architecture**, **Design Patterns** e **SOLID**.
 
@@ -22,11 +24,6 @@
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ### 💻 Backend & Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -34,10 +31,15 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### 🗄️ Bases de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,19 +51,6 @@
 ---
 
 ## 🚀 Projetos em Destaque
-
-### 🦊 [Centi — App de Finanças Pessoais](https://github.com/CLopes86/centi)
-App mobile de gestão financeira pessoal, desenvolvida com Flutter e Firebase.
-
-- 🏗️ **Clean Architecture** — camadas Domain, Data e Presentation separadas
-- 🔥 **Firebase Auth + Firestore** — autenticação e dados em tempo real
-- 💉 **Injeção de dependências** manual via construtores
-- 📊 Dashboard com transações em tempo real via StreamBuilder
-- 🧭 Navegação centralizada com GoRouter
-
-**Tech:** `Flutter` `Dart` `Firebase` `Riverpod` `GoRouter` `Clean Architecture`
-
----
 
 ### 🔗 [FlowChain — Sistema de Gestão de Operações](https://github.com/CLopes86/flowchain-api)
 API REST para gestão interna de operações de restauração — inspirado na realidade do setor.
@@ -75,8 +64,15 @@ API REST para gestão interna de operações de restauração — inspirado na r
 
 ---
 
+### 🏋️ [ESTGym — Simulador de Ginásio](https://github.com/CLopes86/ESTGym)
+Simulador de ginásio em Java, desenvolvido para o TP1 da disciplina de Padrões e Desenho de Software.
+
+**Tech:** `Java` `Swing` `OOP` `Design Patterns`
+
+---
+
 ### ♟️ [Java Chess Game](https://github.com/CLopes86/java-chess-game)
-Jogo de xadrez completo com interface gráfica, desenvolvido para a disciplina de Padrões de Design de Software no IPCB.
+Jogo de xadrez completo com interface gráfica, desenvolvido para a disciplina de Padrões de Design de Software.
 
 - 🎯 **Strategy Pattern** — cada peça tem a sua própria lógica de movimento
 - 📋 **Template Method** — classe abstrata `Peca` define a estrutura base
@@ -85,6 +81,26 @@ Jogo de xadrez completo com interface gráfica, desenvolvido para a disciplina d
 - 🏛️ Princípios SOLID aplicados
 
 **Tech:** `Java` `Swing` `OOP` `Design Patterns` `SOLID`
+
+---
+
+### 🎫 [Coupon Engine](https://github.com/CLopes86/coupon-engine)
+Sistema de gestão de cupões e cartões de fidelização — projeto de Java OOP.
+
+**Tech:** `Java` `OOP`
+
+---
+
+### 🦊 [Centi — App de Finanças Pessoais](https://github.com/CLopes86/centi)
+App mobile de gestão financeira pessoal, desenvolvida com Flutter e Firebase.
+
+- 🏗️ **Clean Architecture** — camadas Domain, Data e Presentation separadas
+- 🔥 **Firebase Auth + Firestore** — autenticação e dados em tempo real
+- 💉 **Injeção de dependências** manual via construtores
+- 📊 Dashboard com transações em tempo real via StreamBuilder
+- 🧭 Navegação centralizada com GoRouter
+
+**Tech:** `Flutter` `Dart` `Firebase` `Riverpod` `GoRouter` `Clean Architecture`
 
 ---
 
@@ -100,10 +116,9 @@ Primeiro projeto Flutter completo — app de gestão de tarefas com CRUD e persi
 ---
 
 ### 👾 [Alien Invasion](https://github.com/CLopes86/alien-invasion)
-Jogo estilo Space Invaders em desenvolvimento, com C++ e OpenGL.
+Jogo estilo Space Invaders com C++ e OpenGL — projeto académico de Computação Gráfica.
 
 - 🎮 Game Design Document completo — 5 níveis, boss final Xar'Veth
-- 🖥️ Projeto académico de Computação Gráfica no IPCB
 
 **Tech:** `C++` `OpenGL` `GLUT`
 
@@ -125,9 +140,9 @@ Jogo estilo Space Invaders em desenvolvimento, com C++ e OpenGL.
 
 ## 🎯 Atualmente a Trabalhar
 
-- 🦊 **Centi** — a finalizar funcionalidades e testes
-- 🔗 **FlowChain** — a construir a API REST com Spring Boot
-- 👾 **Alien Invasion** — primeiro output OpenGL
+- 🔗 **FlowChain** — a evoluir a API REST com Spring Boot
+- ☕ **Java & Spring** — a aprofundar e a preparar entrevistas técnicas
+- 🏋️ **ESTGym** — trabalho prático de Padrões e Desenho de Software
 - 🇬🇧 **Inglês técnico** — a melhorar para entrevistas
 
 ---
@@ -147,7 +162,5 @@ Jogo estilo Space Invaders em desenvolvimento, com C++ e OpenGL.
 <div align="center">
 
 ### 💡 "A aprender, a construir, a crescer — um projeto de cada vez."
-
-![Visitor Count](https://profile-counter.glitch.me/CLopes86/count.svg)
 
 </div>
